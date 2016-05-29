@@ -2,6 +2,12 @@
 
 this is the desktop appliction for [GradleBuilderWeb](https://github.com/samerzmd/GradleBuilderWeb)
 
+
+Future work
+-------
+Support Muilt Projects building + multithreading 
+Support TFS pulling 
+
  License
 -------
 
