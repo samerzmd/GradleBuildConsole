@@ -5,8 +5,9 @@ this is the desktop appliction for [GradleBuilderWeb](https://github.com/samerzm
 
 Future work
 -------
-Support Muilt Projects building + multithreading 
-Support TFS pulling 
+1-Support Muilt Projects building + multithreading 
+
+2-Support TFS pulling 
 
  License
 -------
